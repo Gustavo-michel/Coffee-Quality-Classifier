@@ -1,4 +1,4 @@
-# Coffe-Quality-Classifier
+# Coffee-Quality-Classifier
 
 Coffe Quality Dataset on Kaggle: https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi
 
