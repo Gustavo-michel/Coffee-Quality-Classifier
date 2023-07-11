@@ -13,7 +13,8 @@ Original Notebook on Kaggle(with interactives graphs in plotly): https://www.kag
   **Os defeitos da categoria dois são defeitos secundários, mais sutis e só podem ser detectados por meio da degustação. Esses defeitos incluem fermentação
   excessiva, ranço, ranço, sabor químico, etc.**
 
-  Download classificador treinado: https://github.com/Gustavo-michel/Coffee-Quality-Classifier/blob/main/DefectOne_classifier.sav
+  download classificador treinado: https://github.com/Gustavo-michel/Coffee-Quality-Classifier/blob/main/DefectOne_classifier.sav
+  
   -------
 
   🇺🇸 Coffe quality essentially which aims to predict the classification of coffee quality considering the company, manufactured region, processing method and point
