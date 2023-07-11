@@ -2,7 +2,7 @@
 
 Coffe Quality Dataset on Kaggle: https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi
 
-Original Notebook on Kaggle: https://www.kaggle.com/code/gustavomichel/coffe-quality-catonedef-97
+Original Notebook on Kaggle(with interactives graphs in plotly): https://www.kaggle.com/code/gustavomichel/coffe-quality-catonedef-97
 
 ## Coffe database Explain
  🇧🇷 Coffe quality essencialmente que tem como objetivo prever a classificação da qualidade do café considerando a companhia, região fabricada, metodo de procssamento  e apontar se há defeitos presentes que são organizados em duas categorias:
@@ -12,7 +12,6 @@ Original Notebook on Kaggle: https://www.kaggle.com/code/gustavomichel/coffe-qua
 
   **Os defeitos da categoria dois são defeitos secundários, mais sutis e só podem ser detectados por meio da degustação. Esses defeitos incluem fermentação
   excessiva, ranço, ranço, sabor químico, etc.**
-
   -------
 
   🇺🇸 Coffe quality essentially which aims to predict the classification of coffee quality considering the company, manufactured region, processing method and point
