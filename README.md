@@ -15,7 +15,7 @@ Original Notebook on Kaggle(with interactives graphs in plotly): https://www.kag
 
   download classificador treinado: https://github.com/Gustavo-michel/Coffee-Quality-Classifier/blob/main/DefectOne_classifier.sav
   
-  -------
+  ##
 
   🇺🇸 Coffe quality essentially which aims to predict the classification of coffee quality considering the company, manufactured region, processing method and point
  out if there are defects present which are organized into two categories:
@@ -25,3 +25,9 @@ Original Notebook on Kaggle(with interactives graphs in plotly): https://www.kag
 
    **Category two defects are secondary defects, more subtle and can only be detected through tasting. These defects include fermentation
    excessive, rancidity, rancidity, chemical taste, etc.**
+
+  ----------
+
+  # Classificador
+
+   para classficar o defect one foi usado o Neural network pelo Sckit-Learn(MLPClassifier)
